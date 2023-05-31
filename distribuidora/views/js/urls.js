@@ -1,0 +1,15 @@
+export const url = {
+    url_administradores : "http://localhost/ProyectoIV-II/distribuidora/models/administradores.php",
+    url_productos : "http://localhost/ProyectoIV-II/distribuidora/models/productos.php",
+    url_compra : "http://localhost/ProyectoIV-II/distribuidora/models/compra.php",
+    url_inventario : "http://localhost/ProyectoIV-II/distribuidora/models/inventario.php",
+    url_cliente : "http://localhost/ProyectoIV-II/distribuidora/models/cliente.php",
+    url_ventas : "http://localhost/ProyectoIV-II/distribuidora/models/ventas.php",
+    url_pedido : "http://localhost/ProyectoIV-II/distribuidora/models/pedido.php",
+    url_sesiones : "http://localhost/ProyectoIV-II/distribuidora/controllers/sessiones.php",
+    get_sessiones : "http://localhost/ProyectoIV-II/distribuidora/controllers/get_sessiones.php",
+    delete_sessiones : "http://localhost/ProyectoIV-II/distribuidora/controllers/delete_sessiones.php",
+    url_controlador_acceso :  "http://localhost/ProyectoIV-II/distribuidora/controllers/controlador_tipo_usuario.php",
+    url_productos2 : "http://localhost/ProyectoIV-II/distribuidora/models/registro_productos.php",
+    url_resumen_ventas : "http://localhost/ProyectoIV-II/distribuidora/models/resumen_ventas.php",
+}

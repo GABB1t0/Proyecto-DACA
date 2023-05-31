@@ -1,0 +1,8 @@
+Consideraciones 
+
+- Para prodecer a confirmar pedido, el usuario debe estar logueado (listo)
+- Luego de confirmar, el pedido ha de registrarse en la base de datos (en proceso)
+- Se debe borrar la data del carrito del localStorage (en proceso)
+- El usuario debe recibir un correo electronico con los datos del pago 
+- El usuario debe proporcionar una imagen del pago para confirmar el pago
+- 
